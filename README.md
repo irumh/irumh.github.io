@@ -63,6 +63,7 @@ I’m a **Full-Stack Data Scientist** passionate about building scalable machine
 ### 🏆 Achievements & Certifications
 - **Chairperson’s Gold Medal** and **Academic Excellence Gold Medal** at IIIT Vadodara
 - **GATE Qualified** (2020, 2021) and selected for the **Setubandhan Program** for industry-led mentorship in machine learning
+- Ranked **52/694** teams in Redbus Data Decode Hackathon 2025
 - **Certifications:**  
   - Fundamentals of Deep Learning - NVIDIA  
   - Data Science Specialization - Google  
