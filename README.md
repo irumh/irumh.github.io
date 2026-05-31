@@ -2,10 +2,6 @@
 
 This is the source code for my personal portfolio website, built with Vite and vanilla HTML/CSS.
 
-## Inspiration
-- Design: [saeideh.com](https://saeideh.com/)
-- Structure: [paperswithcode.com](https://paperswithcode.com/)
-
 ## Development
 ```bash
 npm install
